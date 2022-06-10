@@ -1,0 +1,22 @@
+C:\Users\hvdem\Desktop\ProjectFromVS\MVC4LayerSalesManagementSystemProject\BusinessORM\bin\Debug\BusinessORM.dll
+C:\Users\hvdem\Desktop\ProjectFromVS\MVC4LayerSalesManagementSystemProject\BusinessORM\bin\Debug\BusinessORM.pdb
+C:\Users\hvdem\Desktop\ProjectFromVS\MVC4LayerSalesManagementSystemProject\BusinessORM\obj\Debug\BusinessORM.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\ProjectFromVS\MVC4LayerSalesManagementSystemProject\BusinessORM\obj\Debug\BusinessORM.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\ProjectFromVS\MVC4LayerSalesManagementSystemProject\BusinessORM\obj\Debug\BusinessORM.dll
+C:\Users\hvdem\Desktop\ProjectFromVS\MVC4LayerSalesManagementSystemProject\BusinessORM\obj\Debug\BusinessORM.pdb
+C:\Users\hvdem\Desktop\ProjectFromVS\MVC4LayerSalesManagementSystemProject\BusinessORM\bin\Debug\Entity.dll
+C:\Users\hvdem\Desktop\ProjectFromVS\MVC4LayerSalesManagementSystemProject\BusinessORM\bin\Debug\Facade.dll
+C:\Users\hvdem\Desktop\ProjectFromVS\MVC4LayerSalesManagementSystemProject\BusinessORM\bin\Debug\Entity.pdb
+C:\Users\hvdem\Desktop\ProjectFromVS\MVC4LayerSalesManagementSystemProject\BusinessORM\bin\Debug\Facade.pdb
+C:\Users\hvdem\Desktop\ProjectFromVS\MVC4LayerSalesManagementSystemProject\BusinessORM\obj\Debug\BusinessORM.csproj.CopyComplete
+C:\Users\hvdem\Desktop\Projeler\N Katmanlı(4) - Kopya\4LayerSalesManagementSystemProject\BusinessORM\bin\Debug\BusinessORM.dll
+C:\Users\hvdem\Desktop\Projeler\N Katmanlı(4) - Kopya\4LayerSalesManagementSystemProject\BusinessORM\bin\Debug\BusinessORM.pdb
+C:\Users\hvdem\Desktop\Projeler\N Katmanlı(4) - Kopya\4LayerSalesManagementSystemProject\BusinessORM\bin\Debug\Entity.dll
+C:\Users\hvdem\Desktop\Projeler\N Katmanlı(4) - Kopya\4LayerSalesManagementSystemProject\BusinessORM\bin\Debug\Facade.dll
+C:\Users\hvdem\Desktop\Projeler\N Katmanlı(4) - Kopya\4LayerSalesManagementSystemProject\BusinessORM\bin\Debug\Entity.pdb
+C:\Users\hvdem\Desktop\Projeler\N Katmanlı(4) - Kopya\4LayerSalesManagementSystemProject\BusinessORM\bin\Debug\Facade.pdb
+C:\Users\hvdem\Desktop\Projeler\N Katmanlı(4) - Kopya\4LayerSalesManagementSystemProject\BusinessORM\obj\Debug\BusinessORM.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\Projeler\N Katmanlı(4) - Kopya\4LayerSalesManagementSystemProject\BusinessORM\obj\Debug\BusinessORM.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\Projeler\N Katmanlı(4) - Kopya\4LayerSalesManagementSystemProject\BusinessORM\obj\Debug\BusinessORM.csproj.CopyComplete
+C:\Users\hvdem\Desktop\Projeler\N Katmanlı(4) - Kopya\4LayerSalesManagementSystemProject\BusinessORM\obj\Debug\BusinessORM.dll
+C:\Users\hvdem\Desktop\Projeler\N Katmanlı(4) - Kopya\4LayerSalesManagementSystemProject\BusinessORM\obj\Debug\BusinessORM.pdb
